@@ -21,6 +21,14 @@ This project is a clone of Goodreads.com, customized with an Ethiopian theme. It
 - CSS
 - JavaScript
 
+## Team Members
+
+- Duresa Feyisa
+- Gemechis Elias
+- Habteyesus Tadese
+- Etsubdink Hayelom
+- Firkresilase
+
 ## Getting Started
 
 To get started with the project, follow these steps:
